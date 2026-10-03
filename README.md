@@ -72,14 +72,6 @@ Me chamo Jeferson Costa, tenho 19 anos e moro em Guaramirim - SC. Atualmente cur
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
-<img
-    align="left"
-    alt="Vercel"
-    title="Vercel"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg"
-/>
 <br/>
 <br/>
 
