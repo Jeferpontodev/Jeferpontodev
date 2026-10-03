@@ -10,7 +10,7 @@ Me chamo Jeferson Costa, tenho 19 anos e moro em Guaramirim - SC. Atualmente cur
  
 #
 
-<img align="right" alt="" height="190px" src="./src/edgerunners.gif">
+<img align="right" alt="" height="190px" src="./src/chica-fnaf-movie.gif">
 
 <h3 align="left">Connect with me!</h3>
 
