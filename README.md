@@ -6,8 +6,7 @@
 
 #
 
-Me chamo Paulo Queiroz, tenho 24 anos e moro em Juiz de Fora - MG. Atualmente curso Análise e Desenvolvimento de Sistemas na FIAP. Sou apaixonado por tecnologia, curioso sobre Hardware e compartilho meu conhecimento através do
-meu canal no YouTube "[PauloDev](https://www.youtube.com/@paulopontodev)".
+Me chamo Jeferson Costa, tenho 19 anos e moro em Guaramirim - SC. Atualmente curso Desenvolvimento de Sistemas na CEDUP GUARAMIRIM. Sou apaixonado por tecnologia, gosto de falar sobre hardware.
  
 #
 
